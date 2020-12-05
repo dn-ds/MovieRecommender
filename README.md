@@ -8,7 +8,7 @@ For a quick summary of the project, see these
 ---
 
 A 
-[web app](http://www.movierecommender.com) 
+[web app](http://www.movierecommender.net) 
 that makes movie recommendations based on ratings supplied by the user.
 
 
